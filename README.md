@@ -1,3 +1,3 @@
-# 2110507-Homework
-# Thanakorn Thaminkaew
-# 6472031921
+2110507-Homework
+Thanakorn Thaminkaew
+6472031921
