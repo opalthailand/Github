@@ -1,5 +1,5 @@
-2110507-Homework
+# 2110507 Homework
 
-Thanakorn Thaminkaew
+- Thanakorn Thaminkaew
 
-6472031921
+- 6472031921
